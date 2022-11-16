@@ -38,3 +38,4 @@ user로 이동후 mysite를 생성하여준다
 
 서버 실행을 진행한다 ip를 internet에 접속
 
+python -m pip install --upgrade pip <-------- 파이썬 업그레이드 진행 은 필요시
