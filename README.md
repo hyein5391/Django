@@ -39,3 +39,17 @@ user로 이동후 mysite를 생성하여준다
 서버 실행을 진행한다 ip를 internet에 접속
 
 python -m pip install --upgrade pip <-------- 파이썬 업그레이드 진행 은 필요시
+
+
+#---------------------------------------------------------------
+마이 그레이트 생성 (블로그 파일 만들기 전 생성)
+![마이그레이트 생성](https://user-images.githubusercontent.com/110071838/202107657-ada6635c-e24a-41fd-865a-4b9028906a11.png)
+
+블로그 생성
+![블로그 생성](https://user-images.githubusercontent.com/110071838/202107680-4ecd8b83-c436-44e6-b3a8-47cc2cd10309.png)
+
+![관리자 아이디 만들기](https://user-images.githubusercontent.com/110071838/202107724-ec7013d8-4fcc-4635-80ca-49fad22b9e72.png)
+
+관리자 아이디 암호 생성
+
+
